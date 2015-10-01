@@ -1,0 +1,25 @@
+# Site settings
+title: gonzalezvl.com
+email: vangolie(at)gmail.com
+url:  gonzalezvl.github.io
+#url: https://www.gonzalezvl.com
+description: "Vanessa L. González, Ph.D. Research Bioinformatician, Global Genome Initiative, Smithsonian Institution.."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: gonzalezvl.com
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/vl_gonzalez
+  - title: github
+    url: https://github.com/gonzalezvl   
+
+# Build settings
+markdown: kramdown
+permalink: pretty
